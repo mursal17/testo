@@ -1,0 +1,21 @@
+body{
+text-align: center;
+}
+#big {
+width: 200px;
+}
+h1{
+font-size: 45px;
+font-family: comic sans ms;
+text-decoration-line: underline;
+margin-top: 25px;
+}
+.test{
+padding: 20px;
+}
+#bigg {
+width: 250px;
+}
+#biggg {
+width: 175px;
+}
